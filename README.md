@@ -11,8 +11,13 @@
     DB_DATABASE=laravelpackage
     DB_USERNAME=root
     DB_PASSWORD=your database password
+    
 #execute migration :
     php artisan migrate
+    
+#execute seeder :
+ ####add User seeder in DatabaseSeeder and run :
+    php artisan db:seed
 
 ## copy publishes files from  Contact Laravel Package to your project:   
     php artisan vendor:publish
