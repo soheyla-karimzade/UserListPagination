@@ -12,7 +12,7 @@
     DB_USERNAME=root
     DB_PASSWORD=your database password
     
-#execute migration :
+# execute migration :
     php artisan migrate
     
 # execute seeder :
