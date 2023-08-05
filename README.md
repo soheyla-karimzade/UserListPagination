@@ -1,4 +1,4 @@
-# Contact Laravel Package
+# userListPagination Laravel Package
 ## this will send email to admin and save contact query in database
 
 ## Install
