@@ -2,7 +2,7 @@
 ## this will send email to admin and save contact query in database
 
 ## Install
-    composer require scode/userListPagination
+   composer require scode/user-list-pagination
     
 ## set config database in .env file for example:
     DB_CONNECTION=mysql
