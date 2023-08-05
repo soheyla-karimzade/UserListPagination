@@ -15,8 +15,8 @@
 #execute migration :
     php artisan migrate
     
-#execute seeder :
- ####add User seeder in DatabaseSeeder and run :
+# execute seeder :
+ #### add User seeder in DatabaseSeeder and run :
     php artisan db:seed
 
 ## copy publishes files from  Contact Laravel Package to your project:   
