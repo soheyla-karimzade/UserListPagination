@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Scode\\UserListPagination\\": "src/"
+            "Daa\\UserListPagination\\": "src/"
         }
     },
     "authors": [
