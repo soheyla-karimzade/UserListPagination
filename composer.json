@@ -1,0 +1,26 @@
+{
+    "name": "scode/user-list-pagination",
+    "description": "this get paginations list of users model",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Scode\\UserListPagination\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "soheyla.karimzade",
+            "email": "soheyla.karimzade@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Daa\\UserListPagination\\UserListPaginationServiceProvider"
+            ]
+        }
+    }
+}
